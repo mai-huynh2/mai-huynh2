@@ -29,7 +29,6 @@ Tech Stack:Python, TensorFlow/Keras, NumPy, Pandas, Matplotlib, scikit-learn
 Learnings:
 - Applied time series preprocessing techniques such as normalization, sequence windowing, and reshaping for LSTM input  
 - Built and trained a two-layer LSTM model with dropout regularization to prevent overfitting  
-- Achieved strong predictive performance with a test **RMSE of _X.XX_** *(replace with actual value)*  
 - Visualized actual vs. predicted stock prices to evaluate model effectiveness and trend accuracy
 
 📫 How to Reach Me:
